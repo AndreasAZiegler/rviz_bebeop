@@ -1,0 +1,9 @@
+<library path="librviz_bebop">
+  <class name="rviz_bebop/Bebop"
+         type="rviz_bebop::BebopPanel"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget allowing to control a Bebop2.
+    </description>
+  </class>
+</library>
